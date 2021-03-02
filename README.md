@@ -1,1 +1,4 @@
-# machineLearningDeepLearning
+# lihongyi_MachineLearning_DeepLearning
+李宏毅2021机器学习深度学习笔记PPT作业
+
+这个课程李老师刚更新，持续更新中
