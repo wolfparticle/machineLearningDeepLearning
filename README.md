@@ -19,8 +19,20 @@ https://www.bilibili.com/video/BV1zA411K7en?p=5
 
 https://github.com/wolfparticle/machineLearningDeepLearning/tree/main/PPT/%E7%AC%AC%E4%BA%8C%E7%AB%A0deeplearning
 
+大作业准备, 见homework_code
+
+Google Colab Tutorial
+
+Pytorch Tutorial 2
+
+PyTorch Tutorial ML 2021 Spring
+
+第一个大作业PPT, 见homework_code\hw1
+
+ML2021Spring HW1
 
 
-这个课程李老师刚更新，持续更新中
+
+#### 这个课程李老师刚更新，持续更新中
 
 star是最好的鼓励
