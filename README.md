@@ -1,38 +1,73 @@
-# lihongyi_MachineLearning_DeepLearning
-李宏毅2021机器学习深度学习笔记PPT作业
+
+
+#### 李宏毅老师2021年春季机器学习深度学习上线新课程，持续更新中
+
+> PPT, 作业，我个人学习笔记，个人代码将会上传到github，欢迎Star，请多多鼓励。
+
+- 下载方式 1
+
+> git工具下载
+
+​			git clone https://github.com/wolfparticle/machineLearningDeepLearning.git
+
+- 下载方式 2
+
+>  网页下载		
+
+<img src="https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306075935050.png" style="zoom:30%;" />
+
+---
 
 #### 更新记录
 
-20210302:	更新课程介绍，更新introduction machine learning 中文版
+##### 第一章introduction and ml已经更新完
 
-https://www.bilibili.com/video/BV1zA411K7en
+**20210302**
 
-新建微信学习群，课程更新计划，可以去这篇文章查看
+> 课程介绍，introduction machine learning 中文版 
 
-https://mp.weixin.qq.com/s?__biz=MzIxMTE2NDU0Ng==&amp;mid=2650439327&amp;idx=1&amp;sn=b0c957a8baecfb78910409aca3cc6f46&amp;chksm=8f575272b820db64ca1d702da3cad5fd19654276d28b2c36fc8a0eab62c66618bf9b15862053&token=1629873331&lang=zh_CN#rd
+>  PPT
 
-20210305：更新introduction英文版视频，更新第二章deeplearning PPT
+![image-20210306064850117](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306064850117.png)
 
-https://www.bilibili.com/video/BV1zA411K7en?p=5
+> 中文版视频:  https://www.bilibili.com/video/BV1zA411K7en
 
-第二章PPT
+**20210305**
 
-https://github.com/wolfparticle/machineLearningDeepLearning/tree/main/PPT/%E7%AC%AC%E4%BA%8C%E7%AB%A0deeplearning
+> 英文版视频  https://www.bilibili.com/video/BV1zA411K7en?p=5
 
-大作业准备, 见homework_code
+> 第一个作业PPT
 
-Google Colab Tutorial
+​	![image-20210306073030809](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306073030809.png)
 
-Pytorch Tutorial 2
+---
 
-PyTorch Tutorial ML 2021 Spring
+##### 第二章deeplearning更新完中文版视频及PPT，作业和英文版未更新
 
-第一个大作业PPT, 见homework_code\hw1
+**20210305：**
 
-ML2021Spring HW1
+>  PPT
+
+![image-20210306073403693](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306073403693.png)
+
+> 中文版视频：https://www.bilibili.com/video/BV1zA411K7en?p=7
+
+---
+
+#### 学习小组
+
+> 微信打卡群，第一时间订阅更新，PPT，作业共享，学习笔记分享，讨论
+
+<img src="https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306071240677.png" alt="image-20200927095842317" style="zoom:43%;" />
 
 
 
-#### 这个课程李老师刚更新，持续更新中
+> 若二维码失效，扫码加我微信
 
-star是最好的鼓励
+<img src="https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306072233264.png" style="zoom:43%;" />
+
+---
+
+#### 请多多鼓励，欢迎Star
+
+![image-20210306080759334](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306080759334.png)
