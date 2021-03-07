@@ -1,5 +1,3 @@
-
-
 #### 李宏毅老师2021年春季机器学习深度学习上线新课程，持续更新中
 
 > PPT, 作业，我个人学习笔记，个人代码将会上传到github，欢迎Star，请多多鼓励。
@@ -40,15 +38,27 @@
 
 ​	![image-20210306073030809](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306073030809.png)
 
+**20210307**
+
+> 第一个作业指导代码，文件夹：homework_code/hw1
+
+![image-20210307151852145](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210307151852145.png)![image-20210307151927930](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210307151927930.png)
+
+> 第一个作业数据，文件夹：data/
+
+​         ml2021spring-hw1
+
 ---
 
 ##### 第二章deeplearning更新完中文版视频及PPT，作业和英文版未更新
 
-**20210305：**
+**20210305**
 
 >  PPT
 
 ![image-20210306073403693](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306073403693.png)
+
+**20210306**
 
 > 中文版视频：https://www.bilibili.com/video/BV1zA411K7en?p=7
 
