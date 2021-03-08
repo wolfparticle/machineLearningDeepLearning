@@ -48,6 +48,16 @@
 
 ​         ml2021spring-hw1
 
+**20210308**
+
+> 根据官方baseline改写了本地能运行的baseline, 详见 homework_code/hw1 作业说明.txt
+
+> hw1的数据字段含义解释参考网址
+
+https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/fb-survey.html#mental-health-indicators
+
+https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
+
 ---
 
 ##### 第二章deeplearning更新完中文版视频及PPT，作业和英文版未更新
