@@ -1,0 +1,8 @@
+covid.train:训练数据
+covid.test:测试数据
+sampleSubmission:这个可以不用管
+数据字段参考：
+https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/fb-survey.html#mental-health-indicators
+https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
+ML2021Spring_HW1.ipynb: 是官方的baseline, 需要注册google colab才能用
+HW1_local.ipynb: 是我根据官方改的，能在本地运行，不需要google colab
