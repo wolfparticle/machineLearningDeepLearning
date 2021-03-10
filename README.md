@@ -58,6 +58,14 @@ https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/fb-survey.html
 
 https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
+**20210310**
+
+> 更新google colab 使用指导的PPT和视频
+
+​    PPT: /homework_code/hw1
+
+​	视频：https://www.bilibili.com/video/BV1zA411K7en?p=7
+
 ---
 
 ##### 第二章deeplearning更新完中文版视频及PPT，作业和英文版未更新
@@ -76,13 +84,7 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 #### 学习小组
 
-> 微信打卡群，第一时间订阅更新，PPT，作业共享，学习笔记分享，讨论
-
-<img src="https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306071240677.png" alt="image-20200927095842317" style="zoom:43%;" />
-
-
-
-> 若二维码失效，扫码加我微信
+> 微信打卡群，第一时间订阅更新，PPT，作业共享，学习笔记分享，加我微信时务必添加备注，备注格式为，昵称-学生-学校-研究方向 or 昵称-工作-公司-职位方向
 
 <img src="https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306072233264.png" style="zoom:43%;" />
 
