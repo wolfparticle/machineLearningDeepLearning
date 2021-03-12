@@ -1,6 +1,10 @@
-#### 李宏毅老师2021年春季机器学习深度学习上线新课程，持续更新中
+### 李宏毅老师2021年春季机器学习深度学习上线新课程，持续更新中
 
-> PPT, 作业，我个人学习笔记，个人代码将会上传到github，欢迎Star，请多多鼓励。
+
+
+> PPT，作业代码，学习笔记，上课代码，tensorflow|pytorch将会上传到github，欢迎Star，请多多鼓励。
+
+**如何下载本库内容**
 
 - 下载方式 1
 
@@ -16,41 +20,56 @@
 
 ---
 
-#### 更新记录
+### 更新记录
+#### <font size=5>PPT部分</font>  	 路径：machineLearningDeepLearning/ppt
+##### <font size=3>课程介绍</font>
+![](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312104838486.png)
+##### <font size=3>第一章</font>
+![](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312104658861.png)
+##### <font size=3>第二章</font>
+![image-20210312105016719](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312105016719.png)
+##### <font size=3>第三章</font>
+![image-20210312105424319](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312105424319.png)
+##### <font size=3>第四章</font>
 
-##### 第一章introduction and ml已经更新完
+未更新
 
-**20210302**
+---
 
-> 课程介绍，introduction machine learning 中文版 
+#### <font size=5>Video部分 </font>
 
->  PPT
+##### <font size=3>课程介绍</font>
+> 中文 https://www.bilibili.com/video/BV1zA411K7en?p=1
+> 英文 https://www.bilibili.com/video/BV1zA411K7en?p=2
 
-![image-20210306064850117](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306064850117.png)
+##### <font size=3>第一章</font>
+> 中文 https://www.bilibili.com/video/BV1zA411K7en?p=3
+> 英文 https://www.bilibili.com/video/BV1zA411K7en?p=5
 
-> 中文版视频:  https://www.bilibili.com/video/BV1zA411K7en
+##### <font size=3>第二章</font>
+> 中文 https://www.bilibili.com/video/BV1zA411K7en?p=8
+> 英文 为更新
 
-**20210305**
+##### <font size=3>第三章</font>
+> 官方未更
+---
 
-> 英文版视频  https://www.bilibili.com/video/BV1zA411K7en?p=5
+#### <font size=5>HomeWork部分</font>  	路径：machineLearningDeepLearning/homework_code
 
-> 第一个作业PPT
+##### <font size=3>课程介绍</font>
+> ppt 
 
-​	![image-20210306073030809](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306073030809.png)
+![](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312112619587.png)
 
-**20210307**
 
-> 第一个作业指导代码，文件夹：homework_code/hw1
 
-![image-20210307151852145](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210307151852145.png)![image-20210307151927930](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210307151927930.png)
+##### <font size=3>第一章</font>
 
-> 第一个作业数据，文件夹：data/
+![image-20210312113510346](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312113510346.png)
 
-​         ml2021spring-hw1
+​	
 
-**20210308**
-
-> 根据官方baseline改写了本地能运行的baseline, 详见 homework_code/hw1 作业说明.txt
+>  google colab 使用录屏：https://www.bilibili.com/video/BV1zA411K7en?p=7
 
 > hw1的数据字段含义解释参考网址
 
@@ -58,31 +77,50 @@ https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/fb-survey.html
 
 https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
-**20210310**
+##### <font size=3>第二章</font>
 
-> 更新google colab 使用指导的PPT和视频
+官网未更新
 
-​    PPT: /homework_code/hw1
+---
+#### <font size=5>Notes 部分 </font> 	路径：machineLearningDeepLearning/Notes
 
-​	视频：https://www.bilibili.com/video/BV1zA411K7en?p=7
+
+
+##### <font size=3>第一章</font>
+
+本人还未更新
+
+##### <font size=3>第二章</font>
+
+##### <font size=3>第三章</font>
 
 ---
 
-##### 第二章deeplearning更新完中文版视频及PPT，作业和英文版未更新
+#### <font size=5>Data 部分</font>   	路径：machineLearningDeepLearning/data
 
-**20210305**
+##### <font size=3>第一章</font>
 
->  PPT
+![image-20210312113042834](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312113042834.png)
 
-![image-20210306073403693](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306073403693.png)
+##### <font size=3>第二章</font>
 
-**20210306**
-
-> 中文版视频：https://www.bilibili.com/video/BV1zA411K7en?p=7
+官网未更新
 
 ---
 
-#### 学习小组
+#### <font size=5>ClassCode部分</font>  	路径：machineLearningDeepLearning/class_code
+
+##### <font size=3>第一章</font>
+
+本人未更新
+
+##### <font size=3>第二章</font>
+
+##### <font size=3>第三章</font>
+
+---
+
+### 学习小组
 
 > 微信打卡群，第一时间订阅更新，PPT，作业共享，学习笔记分享，加我微信时务必添加备注，备注格式为，昵称-学生-学校-研究方向 or 昵称-工作-公司-职位方向
 
@@ -90,6 +128,6 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 ---
 
-#### 请多多鼓励，欢迎Star
+### 请多多鼓励，欢迎Star
 
 ![image-20210306080759334](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306080759334.png)
