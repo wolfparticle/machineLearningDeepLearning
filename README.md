@@ -48,7 +48,7 @@
 
 ##### <font size=3>第二章</font>
 > 中文 https://www.bilibili.com/video/BV1zA411K7en?p=8
-> 英文 为更新
+> 英文 更新部分
 
 ##### <font size=3>第三章</font>
 > 官方未更
@@ -104,7 +104,11 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 ##### <font size=3>第二章</font>
 
-官网未更新
+数据集较大，百度网盘取
+
+> 链接：https://pan.baidu.com/s/1Zjwvv8JMmadPNYgTNN4LCw 
+> 提取码：hw21 
+> 复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V4的分享
 
 ---
 
