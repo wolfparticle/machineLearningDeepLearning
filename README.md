@@ -48,10 +48,12 @@
 
 ##### <font size=3>第二章</font>
 > 中文 https://www.bilibili.com/video/BV1zA411K7en?p=8
-> 英文 更新部分
+> 英文 https://www.bilibili.com/video/BV1zA411K7en?p=12
 
 ##### <font size=3>第三章</font>
-> 官方未更
+> 中文 https://www.bilibili.com/video/BV1zA411K7en?p=15
+>
+> 英文 更新部分
 ---
 
 #### <font size=5>HomeWork部分</font>  	路径：machineLearningDeepLearning/homework_code
@@ -79,7 +81,7 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 ##### <font size=3>第二章</font>
 
-官网未更新
+![image-20210315092433929](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210315092433929.png)
 
 ---
 #### <font size=5>Notes 部分 </font> 	路径：machineLearningDeepLearning/Notes
