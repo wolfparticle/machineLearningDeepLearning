@@ -32,7 +32,7 @@
 ![image-20210312105424319](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312105424319.png)
 ##### <font size=3>第四章</font>
 
-未更新
+![image-20210320165119098](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210320165119098.png)
 
 ---
 
@@ -54,6 +54,11 @@
 > 中文 https://www.bilibili.com/video/BV1zA411K7en?p=15
 >
 > 英文 更新部分
+
+##### <font size=3>第四章</font>
+> 中文 https://www.bilibili.com/video/BV1zA411K7en?p=17
+> 
+> 英文 未更新
 ---
 
 #### <font size=5>HomeWork部分</font>  	路径：machineLearningDeepLearning/homework_code
