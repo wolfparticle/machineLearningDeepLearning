@@ -93,6 +93,8 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 ##### <font size=3>第二章</font>
 
+第二章参考代码已更新，解压之后直接运行run.py文件或者运行ipynb文件
+
 ![image-20210315092433929](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210315092433929.png)
 
 ##### <font size=3>第三章</font>
