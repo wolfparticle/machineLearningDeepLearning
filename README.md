@@ -22,20 +22,8 @@
 
 ### 更新记录
 #### <font size=5>PPT部分</font>  	 路径：machineLearningDeepLearning/ppt
-##### <font size=3>课程介绍</font>
-![](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312104838486.png)
-##### <font size=3>第一章</font>
-![](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312104658861.png)
-##### <font size=3>第二章</font>
-![image-20210327100654094](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210327100654094.png)
-##### <font size=3>第三章</font>
-![image-20210312105424319](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312105424319.png)
-##### <font size=3>第四章</font>
-
-![image-20210320165119098](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210320165119098.png)
-
-##### <font size=3>第五章</font>
-![image-20210327100126440](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210327100126440.png)
+##### <font size=3>第七章</font>
+已同步官网更新到第七章自监督学习
 
 ---
 
@@ -64,6 +52,13 @@
 > 英文 未更新
 ##### <font size=3>第五章</font>
 > 中文 https://www.bilibili.com/video/BV1zA411K7en?p=15
+##### <font size=3>第六章</font>
+> 中文 https://www.bilibili.com/video/BV1zA411K7en?p=17
+> 
+##### <font size=3>第七章</font>
+> 中文 https://www.bilibili.com/video/BV1zA411K7en?p=21
+> 
+
 ---
 
 #### <font size=5>HomeWork部分</font>  	路径：machineLearningDeepLearning/homework_code
@@ -158,6 +153,6 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 ---
 
-### 请多多鼓励，欢迎Star
+### 下载同时请顺便点个Star
 
-![image-20210306080759334](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306080759334.png)
+![image-20210418222443314](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210418222443314.png)
