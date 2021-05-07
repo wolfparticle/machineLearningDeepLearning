@@ -23,7 +23,7 @@
 ### 更新记录
 #### <font size=5>PPT部分</font>  	 路径：machineLearningDeepLearning/ppt
 ##### <font size=3>第七章</font>
-已同步官网更新到第七章自监督学习
+已同步官网更新到第九章 Domain Adaptation/RL
 
 ---
 
@@ -58,7 +58,12 @@
 ##### <font size=3>第七章</font>
 > 中文 https://www.bilibili.com/video/BV1zA411K7en?p=21
 > 
-
+##### <font size=3>第八章</font>
+> 中文 https://www.bilibili.com/video/BV1zA411K7en?p=23
+> 
+##### <font size=3>第九章</font>
+> 官网暂未更新
+> 
 ---
 
 #### <font size=5>HomeWork部分</font>  	路径：machineLearningDeepLearning/homework_code
@@ -92,9 +97,7 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 ![image-20210315092433929](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210315092433929.png)
 
-##### <font size=3>第三章</font>
-已更新代码和数据集
-##### <font size=3>第四章</font>
+##### <font size=3>第三~八章</font>
 已更新代码和数据集
 
 ---
@@ -126,10 +129,8 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 > 提取码：hw21 
 > 复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V4的分享
 
-##### <font size=3>第三章</font>
-数据集同第二章百度网盘
-##### <font size=3>第四章</font>
-数据集同第二章百度网盘
+##### <font size=3>第三~第八章</font>
+数据百度网盘同上
 
 ---
 
