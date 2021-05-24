@@ -97,7 +97,7 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 ![image-20210315092433929](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210315092433929.png)
 
-##### <font size=3>第三~八章</font>
+##### <font size=3>第三~十章</font>
 已更新代码和数据集
 
 ---
