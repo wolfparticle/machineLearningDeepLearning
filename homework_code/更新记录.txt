@@ -1,4 +1,0 @@
-20210302：更新去年作业代码，见2020文件夹
-20210305：更新hw1, 作业准备环境：google colab tutorial, pytorch tutorial 2, pytorch tutorial ml 2021 spring
-20210307：Google_Colab_Tutorial.ipynb，Pytorch_Tutorial.ipynb，Pytorch_Tutorial_2，ML2021Spring_HW1.ipynb
-20210315：add hw2 
