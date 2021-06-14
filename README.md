@@ -22,14 +22,12 @@
 
 ### 更新记录
 #### <font size=5>PPT部分</font>  	 路径：machineLearningDeepLearning/ppt
-##### <font size=3>第七章</font>
-已同步官网更新到第九章 Domain Adaptation/RL
-
+##### <font size=3>该课程所有ppt已更新完毕</font>
 ---
 
 #### <font size=5>Video部分 </font>
 
-##### <font size=3>已同步官网更新到第十三章-终身学习</font>
+##### <font size=3>课程视频已更新完毕</font>
 https://www.bilibili.com/video/BV1zA411K7en?p=52
 
 ---
@@ -65,7 +63,7 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 ![image-20210315092433929](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210315092433929.png)
 
-##### <font size=3>第三~十一章</font>
+##### <font size=3>第三~十四章</font>
 已更新代码和数据集
 
 ---
@@ -73,23 +71,17 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 
 
-##### <font size=3>第一章</font>
+##### <font size=3>很抱歉，这部分个人还未更新</font>
 
-本人还未更新
 
-##### <font size=3>第二章</font>
-
-##### <font size=3>第三章</font>
 
 ---
 
 #### <font size=5>Data 部分</font>   	路径：machineLearningDeepLearning/data
 
-##### <font size=3>第一章</font>
 
-![image-20210312113042834](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210312113042834.png)
 
-##### <font size=3>第二章</font>
+##### <font size=3>所有作业数据在百度网盘</font>
 
 数据集较大，百度网盘取
 
@@ -97,20 +89,14 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 > 提取码：hw21 
 > 复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V4的分享
 
-##### <font size=3>第三~第八章</font>
-数据百度网盘同上
-
+##### 
 ---
 
 #### <font size=5>ClassCode部分</font>  	路径：machineLearningDeepLearning/class_code
 
-##### <font size=3>第一章</font>
+##### <font size=3>抱歉，本人还未更新</font>
 
-本人未更新
 
-##### <font size=3>第二章</font>
-
-##### <font size=3>第三章</font>
 
 ---
 
